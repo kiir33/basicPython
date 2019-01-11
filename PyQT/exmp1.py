@@ -54,7 +54,7 @@ class App(QMainWindow):
         self.firstNum.setText("")
         self.secNum.setText("")
 
-if __name__ == '__main__':
-    app = QApplication(sys.argv)
-    ex = App()
-    sys.exit(app.exec_())
+
+app = QApplication(sys.argv)
+ex = App()
+sys.exit(app.exec_())

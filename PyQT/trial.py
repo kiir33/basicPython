@@ -5,6 +5,7 @@ def window():
     app = QtWidgets.QApplication(sys.argv)
     w = QtWidgets.QWidget()
     l1 = QtWidgets.QLabel(w)
+    l1.setText("First Name: ")
     l1.move(100, 20)
     f1 = QtWidgets.QLineEdit(w)
     f1.move(180, 20)
