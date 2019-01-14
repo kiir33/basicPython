@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc1add58-6607-4f9f-befd-e4cc2a34d9e0" name="Default Changelist" comment="exmp3 edit">
-      <change afterPath="$PROJECT_DIR$/PyQT/pyqt1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQT/pyqt10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQT/pyqt2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQT/pyqt3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQT/pyqt4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQT/pyqt5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQT/pyqt6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQT/pyqt7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQT/pyqt8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQT/pyqt9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQT/testpyqt.py" afterDir="false" />
+    <list default="true" id="cc1add58-6607-4f9f-befd-e4cc2a34d9e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Fundamentals/0.stringIndex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/1.indexSlicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/2.negativeIndex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/3.start" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/5.stepSize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/6.stepping backwards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/7.IterateSub-strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/8.StringMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/inherit5.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/inherit_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/inherit_Assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQT/exmp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQT/exmp1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQT/exmp3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQT/exmp3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQT/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQT/trial.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,113 +48,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQT/exmp1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQT/pyqt1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQT/pyqt4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQT/pyqt5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQT/pyqt6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQT/pyqt7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQT/pyqt8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-580">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PyQT/pyqt9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-760">
+            <state relative-caret-position="20">
               <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQT/pyqt10.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-              <folding>
-                <element signature="e#58#68#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PyQT/testpyqt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -205,7 +99,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1040" />
@@ -219,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,13 +124,12 @@
             <path>
               <item name="basicPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="basicPython" type="462c0819:PsiDirectoryNode" />
-              <item name="PyQT" type="462c0819:PsiDirectoryNode" />
+              <item name="Fundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -395,7 +289,8 @@
       <workItem from="1546771796233" duration="4206000" />
       <workItem from="1546831742244" duration="88000" />
       <workItem from="1546831851847" duration="791000" />
-      <workItem from="1547203011736" duration="4136000" />
+      <workItem from="1547203011736" duration="4250000" />
+      <workItem from="1547451823280" duration="995000" />
     </task>
     <task id="LOCAL-00001" summary="updated">
       <created>1545995005101</created>
@@ -457,17 +352,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29505000" />
+    <option name="totallyTimeSpent" value="30614000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1040" height="784" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23373677" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32040817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -499,7 +394,8 @@
     <MESSAGE value="button" />
     <MESSAGE value="trial file" />
     <MESSAGE value="exmp3 edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="exmp3 edit" />
+    <MESSAGE value="pqt demo add" />
+    <option name="LAST_COMMIT_MESSAGE" value="pqt demo add" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../OOP/assignment.py">
@@ -613,9 +509,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PyQT/exmp1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQT/pyqt10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="e#58#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQT/testpyqt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQT/pyqt1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PyQT/pyqt4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
+        <state relative-caret-position="320">
           <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -635,28 +568,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PyQT/pyqt6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PyQT/pyqt1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PyQT/exmp1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        <state relative-caret-position="100">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -666,7 +579,7 @@
     <entry file="file://$PROJECT_DIR$/PyQT/pyqt7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -675,32 +588,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PyQT/pyqt8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-580">
+        <state relative-caret-position="20">
           <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PyQT/pyqt9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-760">
+        <state relative-caret-position="20">
           <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PyQT/pyqt10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <element signature="e#58#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PyQT/testpyqt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
