@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc1add58-6607-4f9f-befd-e4cc2a34d9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Fundamentals/0.stringIndex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/1.indexSlicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/2.negativeIndex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/3.start" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/5.stepSize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/6.stepping backwards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/7.IterateSub-strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/8.StringMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/extract_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_Data_Science" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/.ipynb_checkpoints/Introduction-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/.ipynb_checkpoints/NumPy_Tutorial_1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/0.stringIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/0.stringIndex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/1.indexSlicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/1.indexSlicing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/inherit5.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/inherit_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/inherit_Assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-1/Introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/Introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-1/NumPy_Tutorial_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/NumPy_Tutorial_1.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,35 +23,50 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/basicPython$trial.coverage" NAME="trial Coverage Results" MODIFIED="1546831950542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
-    <SUITE FILE_PATH="coverage/basicPython$exmp2.coverage" NAME="exmp2 Coverage Results" MODIFIED="1546777873698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$inherit7.coverage" NAME="inherit7 Coverage Results" MODIFIED="1546237529214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt1.coverage" NAME="pyqt1 Coverage Results" MODIFIED="1547203952907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
-    <SUITE FILE_PATH="coverage/basicPython$inherit3.coverage" NAME="inherit3 Coverage Results" MODIFIED="1545995947207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt7.coverage" NAME="pyqt7 Coverage Results" MODIFIED="1547205176537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
+    <SUITE FILE_PATH="coverage/basicPython$exmp1.coverage" NAME="exmp1 Coverage Results" MODIFIED="1546832650879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
+    <SUITE FILE_PATH="coverage/basicPython$pyqt10.coverage" NAME="pyqt10 Coverage Results" MODIFIED="1547453138270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
+    <SUITE FILE_PATH="coverage/basicPython$inherit5.coverage" NAME="inherit5 Coverage Results" MODIFIED="1545996754344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/basicPython$inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1545995696879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/basicPython$0_stringIndex.coverage" NAME="0.stringIndex Coverage Results" MODIFIED="1547454511080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals" />
+    <SUITE FILE_PATH="coverage/basicPython$extract_file.coverage" NAME="extract_file Coverage Results" MODIFIED="1547462627859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
+    <SUITE FILE_PATH="coverage/basicPython$pyqt4.coverage" NAME="pyqt4 Coverage Results" MODIFIED="1547204314301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
+    <SUITE FILE_PATH="coverage/basicPython$inherit_Assignment.coverage" NAME="inherit_Assignment Coverage Results" MODIFIED="1546252310794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/basicPython$exmp2.coverage" NAME="exmp2 Coverage Results" MODIFIED="1546777873698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
+    <SUITE FILE_PATH="coverage/basicPython$1_indexSlicing.coverage" NAME="1.indexSlicing Coverage Results" MODIFIED="1547455100073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals" />
+    <SUITE FILE_PATH="coverage/basicPython$inherit3.coverage" NAME="inherit3 Coverage Results" MODIFIED="1545995947207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt6.coverage" NAME="pyqt6 Coverage Results" MODIFIED="1547204972019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt9.coverage" NAME="pyqt9 Coverage Results" MODIFIED="1547205482988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt3.coverage" NAME="pyqt3 Coverage Results" MODIFIED="1547204024347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$inherit6.coverage" NAME="inherit6 Coverage Results" MODIFIED="1545997911455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/basicPython$exmp1.coverage" NAME="exmp1 Coverage Results" MODIFIED="1546832650879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
-    <SUITE FILE_PATH="coverage/basicPython$pyqt10.coverage" NAME="pyqt10 Coverage Results" MODIFIED="1547206514639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$inherit2.coverage" NAME="inherit2 Coverage Results" MODIFIED="1545995943808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/basicPython$inherit5.coverage" NAME="inherit5 Coverage Results" MODIFIED="1545996754344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt2.coverage" NAME="pyqt2 Coverage Results" MODIFIED="1547204014903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
-    <SUITE FILE_PATH="coverage/basicPython$inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1545995696879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt5.coverage" NAME="pyqt5 Coverage Results" MODIFIED="1547204929420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$exmp3.coverage" NAME="exmp3 Coverage Results" MODIFIED="1546831903921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
-    <SUITE FILE_PATH="coverage/basicPython$pyqt4.coverage" NAME="pyqt4 Coverage Results" MODIFIED="1547204314301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$inherit4.coverage" NAME="inherit4 Coverage Results" MODIFIED="1545996292322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/basicPython$inherit_Assignment.coverage" NAME="inherit_Assignment Coverage Results" MODIFIED="1546252310794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt8.coverage" NAME="pyqt8 Coverage Results" MODIFIED="1547205286091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PyQT/pyqt9.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
               <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Files/extract_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,10 +110,13 @@
         <option value="$PROJECT_DIR$/PyQT/pyqt9.py" />
         <option value="$PROJECT_DIR$/PyQT/pyqt10.py" />
         <option value="$PROJECT_DIR$/PyQT/testpyqt.py" />
+        <option value="$PROJECT_DIR$/Fundamentals/0.stringIndex.py" />
+        <option value="$PROJECT_DIR$/Fundamentals/1.indexSlicing.py" />
+        <option value="$PROJECT_DIR$/Files/extract_file.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1040" />
@@ -113,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,15 +137,11 @@
               <item name="basicPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="basicPython" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="basicPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basicPython" type="462c0819:PsiDirectoryNode" />
-              <item name="Fundamentals" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,6 +149,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kiran\PycharmProjects\basicPython" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,7 +167,73 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pyqt10">
+  <component name="RunManager" selected="Python.extract_file">
+    <configuration name="0.stringIndex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="basicPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/0.stringIndex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.indexSlicing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="basicPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/1.indexSlicing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="basicPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/extract_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pyqt10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,72 +248,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQT/pyqt10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pyqt6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="basicPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQT/pyqt6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pyqt7" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="basicPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQT/pyqt7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pyqt8" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="basicPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQT/pyqt8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.extract_file" />
+        <item itemvalue="Python.1.indexSlicing" />
+        <item itemvalue="Python.0.stringIndex" />
         <item itemvalue="Python.pyqt10" />
         <item itemvalue="Python.pyqt9" />
-        <item itemvalue="Python.pyqt8" />
-        <item itemvalue="Python.pyqt7" />
-        <item itemvalue="Python.pyqt6" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +307,8 @@
       <workItem from="1546831742244" duration="88000" />
       <workItem from="1546831851847" duration="791000" />
       <workItem from="1547203011736" duration="4250000" />
-      <workItem from="1547451823280" duration="995000" />
+      <workItem from="1547451823280" duration="3129000" />
+      <workItem from="1547460875745" duration="2550000" />
     </task>
     <task id="LOCAL-00001" summary="updated">
       <created>1545995005101</created>
@@ -352,12 +370,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30614000" />
+    <option name="totallyTimeSpent" value="35298000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1040" height="784" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32040817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24130106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -371,7 +389,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -395,7 +413,8 @@
     <MESSAGE value="trial file" />
     <MESSAGE value="exmp3 edit" />
     <MESSAGE value="pqt demo add" />
-    <option name="LAST_COMMIT_MESSAGE" value="pqt demo add" />
+    <MESSAGE value="fundamentals add" />
+    <option name="LAST_COMMIT_MESSAGE" value="fundamentals add" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../OOP/assignment.py">
@@ -597,6 +616,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fundamentals/0.stringIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fundamentals/1.indexSlicing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Files/extract_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
