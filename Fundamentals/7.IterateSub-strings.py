@@ -32,7 +32,21 @@ for letter in student_name:
 #String slicing and iteration
 # [ ] create & print a variable, other_word, made of every other letter in long_word
 long_word = "juxtaposition"
+other_word = ""
+for letter in long_word[5::]:
+    other_word +=letter
+print(other_word)
 # Mirror Color
 # [ ] get user input, fav_color
+fav_color = input("enter your favourite color: ")
+other_word = ""
+count = 0
+for letter in fav_color[::-1]:
+    count += 1
+    other_word += letter
+for letter in fav_color:
+    other_word += letter
+print(other_word)
+
 # [ ] print fav_color backwards + fav_color
 # example: "Red" prints "deRRed"

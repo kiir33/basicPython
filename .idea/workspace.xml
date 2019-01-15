@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc1add58-6607-4f9f-befd-e4cc2a34d9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Files/extract_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_Data_Science" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/.ipynb_checkpoints/Introduction-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/.ipynb_checkpoints/NumPy_Tutorial_1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals/StringMethodsTask.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/0.stringIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/0.stringIndex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/1.indexSlicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/1.indexSlicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/3.start" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/3.start" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/4" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/5.stepSize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/5.stepSize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/6.stepping backwards.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/6.stepping backwards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/7.IterateSub-strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/7.IterateSub-strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/8.StringMethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentals/8.StringMethods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/inherit5.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/inherit_Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/inherit_Assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-1/Introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/Introduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-1/NumPy_Tutorial_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/NumPy_Tutorial_1.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,10 +27,13 @@
     <SUITE FILE_PATH="coverage/basicPython$exmp1.coverage" NAME="exmp1 Coverage Results" MODIFIED="1546832650879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt10.coverage" NAME="pyqt10 Coverage Results" MODIFIED="1547453138270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$inherit5.coverage" NAME="inherit5 Coverage Results" MODIFIED="1545996754344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/basicPython$8_StringMethods.coverage" NAME="8.StringMethods Coverage Results" MODIFIED="1547534117984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals" />
     <SUITE FILE_PATH="coverage/basicPython$inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1545995696879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/basicPython$7_IterateSub_strings.coverage" NAME="7.IterateSub-strings Coverage Results" MODIFIED="1547534032891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals" />
     <SUITE FILE_PATH="coverage/basicPython$0_stringIndex.coverage" NAME="0.stringIndex Coverage Results" MODIFIED="1547454511080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals" />
     <SUITE FILE_PATH="coverage/basicPython$extract_file.coverage" NAME="extract_file Coverage Results" MODIFIED="1547462627859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt4.coverage" NAME="pyqt4 Coverage Results" MODIFIED="1547204314301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
+    <SUITE FILE_PATH="coverage/basicPython$4.coverage" NAME="4 Coverage Results" MODIFIED="1547532575802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals" />
     <SUITE FILE_PATH="coverage/basicPython$inherit_Assignment.coverage" NAME="inherit_Assignment Coverage Results" MODIFIED="1546252310794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/basicPython$exmp2.coverage" NAME="exmp2 Coverage Results" MODIFIED="1546777873698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$1_indexSlicing.coverage" NAME="1.indexSlicing Coverage Results" MODIFIED="1547455100073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals" />
@@ -41,11 +42,15 @@
     <SUITE FILE_PATH="coverage/basicPython$pyqt9.coverage" NAME="pyqt9 Coverage Results" MODIFIED="1547205482988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt3.coverage" NAME="pyqt3 Coverage Results" MODIFIED="1547204024347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$inherit6.coverage" NAME="inherit6 Coverage Results" MODIFIED="1545997911455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/basicPython$5_stepSize.coverage" NAME="5.stepSize Coverage Results" MODIFIED="1547532581504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals" />
     <SUITE FILE_PATH="coverage/basicPython$inherit2.coverage" NAME="inherit2 Coverage Results" MODIFIED="1545995943808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt2.coverage" NAME="pyqt2 Coverage Results" MODIFIED="1547204014903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
+    <SUITE FILE_PATH="coverage/basicPython$StringMethodsTask.coverage" NAME="StringMethodsTask Coverage Results" MODIFIED="1547534203060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals" />
+    <SUITE FILE_PATH="coverage/basicPython$6_stepping_backwards.coverage" NAME="6.stepping backwards Coverage Results" MODIFIED="1547533386553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt5.coverage" NAME="pyqt5 Coverage Results" MODIFIED="1547204929420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$exmp3.coverage" NAME="exmp3 Coverage Results" MODIFIED="1546831903921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
     <SUITE FILE_PATH="coverage/basicPython$inherit4.coverage" NAME="inherit4 Coverage Results" MODIFIED="1545996292322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/basicPython$3_start.coverage" NAME="3.start Coverage Results" MODIFIED="1547531224582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamentals" />
     <SUITE FILE_PATH="coverage/basicPython$pyqt8.coverage" NAME="pyqt8 Coverage Results" MODIFIED="1547205286091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQT" />
   </component>
   <component name="FileEditorManager">
@@ -59,14 +64,82 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Files/extract_file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="100">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="19" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fundamentals/3.start">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fundamentals/4">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fundamentals/5.stepSize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fundamentals/6.stepping backwards.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fundamentals/7.IterateSub-strings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fundamentals/8.StringMethods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="122" column="21" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fundamentals/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Fundamentals/StringMethodsTask.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -113,6 +186,13 @@
         <option value="$PROJECT_DIR$/Fundamentals/0.stringIndex.py" />
         <option value="$PROJECT_DIR$/Fundamentals/1.indexSlicing.py" />
         <option value="$PROJECT_DIR$/Files/extract_file.py" />
+        <option value="$PROJECT_DIR$/Fundamentals/3.start" />
+        <option value="$PROJECT_DIR$/Fundamentals/4" />
+        <option value="$PROJECT_DIR$/Fundamentals/5.stepSize.py" />
+        <option value="$PROJECT_DIR$/Fundamentals/6.stepping backwards.py" />
+        <option value="$PROJECT_DIR$/Fundamentals/7.IterateSub-strings.py" />
+        <option value="$PROJECT_DIR$/Fundamentals/8.StringMethods.py" />
+        <option value="$PROJECT_DIR$/Fundamentals/StringMethodsTask.py" />
       </list>
     </option>
   </component>
@@ -136,6 +216,11 @@
             <path>
               <item name="basicPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="basicPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basicPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basicPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Fundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,8 +252,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.extract_file">
-    <configuration name="0.stringIndex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.StringMethodsTask">
+    <configuration name="5.stepSize" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,7 +266,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/0.stringIndex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/5.stepSize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.indexSlicing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6.stepping backwards" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,7 +288,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/1.indexSlicing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/6.stepping backwards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +297,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="extract_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7.IterateSub-strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,12 +305,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/extract_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/7.IterateSub-strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +319,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pyqt10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8.StringMethods" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,12 +327,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQT/pyqt10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/8.StringMethods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pyqt9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringMethodsTask" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basicPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,12 +349,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentals" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQT/pyqt9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentals/StringMethodsTask.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.extract_file" />
-        <item itemvalue="Python.1.indexSlicing" />
-        <item itemvalue="Python.0.stringIndex" />
-        <item itemvalue="Python.pyqt10" />
-        <item itemvalue="Python.pyqt9" />
+        <item itemvalue="Python.StringMethodsTask" />
+        <item itemvalue="Python.8.StringMethods" />
+        <item itemvalue="Python.7.IterateSub-strings" />
+        <item itemvalue="Python.6.stepping backwards" />
+        <item itemvalue="Python.5.stepSize" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +393,8 @@
       <workItem from="1546831851847" duration="791000" />
       <workItem from="1547203011736" duration="4250000" />
       <workItem from="1547451823280" duration="3129000" />
-      <workItem from="1547460875745" duration="2550000" />
+      <workItem from="1547460875745" duration="3382000" />
+      <workItem from="1547529126510" duration="4299000" />
     </task>
     <task id="LOCAL-00001" summary="updated">
       <created>1545995005101</created>
@@ -370,17 +456,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35298000" />
+    <option name="totallyTimeSpent" value="40429000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24130106" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24508321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,7 +476,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -414,7 +501,8 @@
     <MESSAGE value="exmp3 edit" />
     <MESSAGE value="pqt demo add" />
     <MESSAGE value="fundamentals add" />
-    <option name="LAST_COMMIT_MESSAGE" value="fundamentals add" />
+    <MESSAGE value="data_science add" />
+    <option name="LAST_COMMIT_MESSAGE" value="data_science add" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../OOP/assignment.py">
@@ -612,13 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PyQT/pyqt9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Fundamentals/0.stringIndex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
@@ -633,13 +714,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PyQT/pyqt9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Files/extract_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="19" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fundamentals/3.start">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fundamentals/4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fundamentals/5.stepSize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fundamentals/6.stepping backwards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fundamentals/7.IterateSub-strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fundamentals/8.StringMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="122" column="21" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fundamentals/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fundamentals/StringMethodsTask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
         </state>
       </provider>
     </entry>

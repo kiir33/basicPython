@@ -29,6 +29,7 @@ print(long_word[1:9:2])
 #Task 4
 # [ ] print the 1st and every 3rd letter of long_word
 long_word = "Acknowledgement"
+print(long_word[::3])
 # [ ] print every other character of long_word starting at the 3rd character
 long_word = "Acknowledgement"
-print(long_word[2::2])
+print(long_word[2::])
