@@ -1,4 +1,5 @@
 from __future__ import print_function
+import datetime
 
 class College:
     def __init__(self):
@@ -8,6 +9,7 @@ class College:
 class Faculty(College):
     def __init__(self,fac):
         self.facultyName = fac
+        College.__init__(self)
 
 class Teacher(Faculty):
     def __init__(self,name,period,salary,fac):
@@ -43,6 +45,7 @@ class Student(Faculty):
         print("Name \t: ",self.name)
         print("Subject\t: ",self.subject)
         print("Marks \t: ",self.mark)
+        print("College\t: ",self.collegeName)
 
 teach1 = Teacher("Roshan",4,30000,"Computer")
 teach1.info()
@@ -51,3 +54,6 @@ stud1 = Student("Kiran","Physics",55,"Computer")
 stud1.info()
 print("Remarks\t: ",end=" ")
 stud1.result()
+
+print(datetime.datetime.now())
+x = datetime.datetime.now()
