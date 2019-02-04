@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc1add58-6607-4f9f-befd-e4cc2a34d9e0" name="Default Changelist" comment="assignment">
-      <change afterPath="$PROJECT_DIR$/PyQT/assignment_pyqt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/.ipynb_checkpoints/Array_creation_routines-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/.ipynb_checkpoints/Array_creation_routines_solution-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/.ipynb_checkpoints/Welcome to Python-checkpoint.ipynb" afterDir="false" />
+    <list default="true" id="cc1add58-6607-4f9f-befd-e4cc2a34d9e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/Probability and Statistics/1.What-is-Probability..ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/Probability and Statistics/1.What-is-Probability..ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/Probability and Statistics/HW_Topic1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/Probability and Statistics/HW_Topic1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-1/.ipynb_checkpoints/NumPy_Tutorial_1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/.ipynb_checkpoints/NumPy_Tutorial_1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-1/Array_creation_routines.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/Array_creation_routines.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-1/Array_creation_routines_solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/Array_creation_routines_solution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-1/NumPy_Tutorial_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/NumPy_Tutorial_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-1/Trigonometric_Functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/Trigonometric_Functions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-1/Welcome to Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-1/Welcome to Python.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-2/Collections.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-2/Collections.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-2/Linear_algebra.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-2/Linear_algebra.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_for_Data_Science/class-2/Logic_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_for_Data_Science/class-2/Logic_functions.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PyQT/assignment_pyqt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            <state relative-caret-position="260">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -154,6 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -171,7 +156,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,7 +329,8 @@
       <workItem from="1547722058191" duration="77000" />
       <workItem from="1547795415439" duration="1733000" />
       <workItem from="1547797716902" duration="51000" />
-      <workItem from="1547797798274" duration="1283000" />
+      <workItem from="1547797798274" duration="1787000" />
+      <workItem from="1547800481099" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="updated">
       <created>1545995005101</created>
@@ -403,20 +388,25 @@
       <option name="project" value="LOCAL" />
       <updated>1546427134856</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="assignment pyqt added">
+      <created>1547799121160</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547799121161</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45620000" />
+    <option name="totallyTimeSpent" value="46128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36384267" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3698941" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3289689" />
@@ -430,6 +420,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.30769232" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -455,7 +446,8 @@
     <MESSAGE value="fundamentals add" />
     <MESSAGE value="data_science add" />
     <MESSAGE value="assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment" />
+    <MESSAGE value="assignment pyqt added" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment pyqt added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../OOP/assignment.py">
@@ -738,8 +730,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PyQT/assignment_pyqt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        <state relative-caret-position="260">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

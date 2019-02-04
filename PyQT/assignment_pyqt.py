@@ -1,7 +1,7 @@
 import sys
 from PyQt5.QtWidgets import *
 
-class App(QMainWindow):
+class App(QWidget):
     def __init__(self):
         super().__init__()
         self.title = 'Addition_App'
@@ -18,51 +18,63 @@ class App(QMainWindow):
     def initUI(self):
 
         self.setWindowTitle(self.title)
-        self.setGeometry(self.left, self.top, self.width, self.height)
+        #self.setGeometry(self.left, self.top, self.width, self.height)
+
+
 
         #Create Label 1
-        self.label1 = QLabel(self)
-        self.label1.setText("First Num : ")
-        self.label1.move(20,20)
+        self.label1 = QLabel("First Num : ")
 
         # Create textbox 1
         self.firstNum = QLineEdit(self)
-        self.firstNum.move(100, 20)
-        self.firstNum.resize(200, 20)
 
         # Create Label 2
-        self.label2 = QLabel(self)
-        self.label2.setText("Second Num : ")
-        self.label2.move(20, 50)
+        self.label2 = QLabel("Second Num : ")
 
         # Create textbox 2
         self.secNum = QLineEdit(self)
-        self.secNum.move(100, 50)
-        self.secNum.resize(200, 20)
 
         # Create a button in the window
         self.button = QPushButton('CALCULATE', self)
-        self.button.move(100, 100)
 
         # Create ResultLabel add
-        self.add_result = QLabel(self)
-        #self.add_result.setText("Sum = %d"%self.sum)
-        self.add_result.move(20, 150)
+        self.add_result = QLabel("Sum")
 
         # Create ResultLabel difference
-        self.dif_result = QLabel(self)
-        self.dif_result.move(20, 170)
+        self.dif_result = QLabel("Difference")
 
         # Create ResultLabel product
-        self.mul_result = QLabel(self)
-        self.mul_result.move(20, 190)
+        self.mul_result = QLabel("Product")
 
         # Create ResultLabel division
-        self.div_result = QLabel(self)
-        self.div_result.move(20, 210)
+        self.div_result = QLabel("Quotient")
+
+        self.add_result1 = QLabel(str(self.sum))
+        self.dif_result1 = QLabel(str(self.dif))
+        self.mul_result1 = QLabel(str(self.mul))
+        self.div_result1 = QLabel(str(self.div))
 
         # connect button to function on_click
         self.button.clicked.connect(self.on_click)
+
+        l1 = QGridLayout()
+
+        l1.addWidget(self.label1,0,0)
+        l1.addWidget(self.label2,1,0)
+        l1.addWidget(self.firstNum,0,1)
+        l1.addWidget(self.secNum,1,1)
+        l1.addWidget(self.button,2,1)
+
+        l1.addWidget(self.add_result,3,0)
+        l1.addWidget(self.dif_result,4,0)
+        l1.addWidget(self.mul_result,5,0)
+        l1.addWidget(self.div_result,6,0)
+
+        l1.addWidget(self.add_result1,3,1)
+        l1.addWidget(self.dif_result1,4,1)
+        l1.addWidget(self.mul_result1,5,1)
+        l1.addWidget(self.div_result1,6,1)
+        self.setLayout(l1)
         self.show()
 
 
@@ -75,10 +87,10 @@ class App(QMainWindow):
             self.dif = fNum - sNum
             self.mul = fNum * sNum
             self.div = fNum / sNum
-            self.add_result.setText("Sum\t  : %.2f"%self.sum)
-            self.dif_result.setText("Difference : %.2f"%self.dif)
-            self.mul_result.setText("Product\t  : %.2f"%self.mul)
-            self.div_result.setText("Quotient\t  : %.2f"%self.div)
+            self.add_result1.setText(str(self.sum))
+            self.dif_result1.setText(str(self.dif))
+            self.mul_result1.setText(str(self.mul))
+            self.div_result1.setText("%.2f"%self.div)
 
         else:
             QMessageBox.question(self, 'Error!', "Please, Enter the numbers first!!!" , QMessageBox.Ok,QMessageBox.Ok)
